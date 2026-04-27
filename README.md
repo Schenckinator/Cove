@@ -1,2 +1,2 @@
 # Cove
-1
+ CSCI 3081W Semester Project - Multi Format media storage and organization solution 
